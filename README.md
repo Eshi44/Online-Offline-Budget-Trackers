@@ -1,4 +1,4 @@
-# Online-Offline-Budget-Tracker
+# Online Offline Budget Tracker
 A PWA application using Node.js, Express, MongoDB, and mongoose to allow users  to keep track of their money as well as input deposits and withdraw cash both online and offline.
 
 ## Functionality
@@ -40,7 +40,18 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - - -
 
-
+## Technology Used
+* Node.js
+* npm packages:
+  * express
+  * mongoose
+  * morgan
+  * compression
+  * lite-server
+* MongoDB
+* Javascript
+* HTML & CSS
+* PWA (webmanifest & service workers)
 
 
 
