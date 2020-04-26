@@ -26,9 +26,9 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Deployed App on Heroku
 
+[Budget Tracker Heroku Link](https://on-off-budget-tracker-pwa.herokuapp.com/)
 
-
-
+![Budget-Tracker-Gif](Budget-Tracker-Gif.gif)
 
 
 
